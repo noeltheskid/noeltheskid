@@ -1,2 +1,2 @@
 # Founder of trenex
-**`HTML / CSS / JAVA`**
+### **`HTML / CSS / JAVA`**
