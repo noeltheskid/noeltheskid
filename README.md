@@ -1,5 +1,3 @@
-# ***insert cool readme file***
+# Developing **Cl3sTerNetwork**
 ### `html/css/java`
-* Developing **Cl3sTerNetwork**
-
-### here's a pic of nothing, hope u like it
+here's a pic of nothing, hope u like it
