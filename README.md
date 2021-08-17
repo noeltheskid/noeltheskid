@@ -1,5 +1,3 @@
-518062226079350786
-
 </p>
 <p align="center">
     NOΞL/noeltheskid/noex_
