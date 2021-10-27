@@ -8,7 +8,6 @@
   <img src="https://discord.c99.nl/widget/theme-4/518062226079350786.png" />
 </p>
 <p align="center">
-Currently learning JavaScript & Java
 <p align="center">
     <a href="https://discord.gg/e6jGPeHvmR">Discord Server</a>
 
