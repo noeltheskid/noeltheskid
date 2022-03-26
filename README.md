@@ -1,6 +1,4 @@
 </p>
-<p align="center">
-    NOΞL/noeltheskid/noex_
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=noeltheskid&color=green">
 </p>
