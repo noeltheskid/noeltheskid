@@ -8,6 +8,8 @@
     <br>
     <a>currently learning java, rust & typescript</a>
     <br>
+    <br>
+    <br>
     <img src="https://discord.c99.nl/widget/theme-4/518062226079350786.png" />
     <br>
     <br>
