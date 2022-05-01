@@ -2,7 +2,9 @@
     <img src="https://komarev.com/ghpvc/?username=noeltheskid&color=green">
     <br>
     <br>
-    <h1>👋 Hey, I'm noex</h1>
+    <h1>yo, im noex</h1>
+    <a>my skills are html, css, js, py</a>
+    <a>currently learning java, rust & typescript</a>
     <br>
     <img src="https://discord.c99.nl/widget/theme-4/518062226079350786.png" />
     <br>
