@@ -1,7 +1,8 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=noeltheskid&color=green">
-    <p>im trash at programming</p>
     <h1>yo, im noex</h1>
+    <p>im trash at programming</p>
+    <br>
     <p>discord</p>
     <img src="https://discord.c99.nl/widget/theme-4/518062226079350786.png" />
 </p>
