@@ -1,8 +1,5 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=noeltheskid&color=green">
-    <br>
-    <br>
-    <br>
     <h1>yo, im noex</h1>
 </p>
 
